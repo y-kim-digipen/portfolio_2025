@@ -89,7 +89,7 @@ export default [
       false
     ),
     new ProjectData(
-      "project-8",
+      "project-b-3",
       "Cloth Simulation",
       "img/academic-projects/engine/clothsim-icon.gif",
       `
@@ -114,7 +114,7 @@ export default [
     )
     ,
     new ProjectData(
-      "project-9",
+      "project-b-4",
       "Legacy pipelines",
       "img/academic-projects/engine/legacy-pipelines.gif",
       `
@@ -140,7 +140,7 @@ export default [
     ),
     
     new ProjectData(
-      "project-9",
+      "project-b-5",
       "PBR / Deferred Rendering",
       "img/academic-projects/engine/pbr.png",
       `
@@ -160,7 +160,7 @@ export default [
     
 
     new ProjectData(
-      "project-9",
+      "project-b-6",
       "FK / IK Animation",
       "img/academic-projects/engine/FK-IK-animaiton.gif",
       `
@@ -178,7 +178,7 @@ export default [
     ),
     
     new ProjectData(
-      "project-9",
+      "project-b-7",
       "Some more..",
       "img/academic-projects/engine/graphics-misc.gif",
       `

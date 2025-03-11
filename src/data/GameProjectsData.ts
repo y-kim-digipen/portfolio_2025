@@ -2,7 +2,7 @@ import ProjectData from '@/data/ProjectData.ts'
 
 export default [
     new ProjectData(
-      "project-1",
+      "project-c-1",
       "Roguelike Magic",
       "img/projects/roguelike-magic/icon.png",
       `
@@ -43,7 +43,7 @@ export default [
       true
     ),
     new ProjectData(
-      "project-2",
+      "project-c-2",
       "Dino Boss",
       "img/projects/dinoboss/icon.png",
       `
@@ -85,7 +85,7 @@ export default [
 
 
     new ProjectData(
-        "project-3",
+        "project-c-3",
         "Only Up Stealth",
         "img/projects/stealth/icon.png",
         `
@@ -117,7 +117,7 @@ export default [
         true
       ),
 
-    new ProjectData("project-4", "More...", "img/projects/others/icon.png", `
+    new ProjectData("project-c-4", "More...", "img/projects/others/icon.png", `
     <div class="paragraph">
         Here's more of projects I contributed on (mostly core gameplay mechanic) clips/thumbnails/island codes!
     </div>

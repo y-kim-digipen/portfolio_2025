@@ -2,7 +2,7 @@ import ProjectData from '@/data/ProjectData.ts'
 
 export default [
     new ProjectData(
-        "project-5",
+        "project-d-1",
         "UE Control Rig Demo",
         "img/side-projects/UE-control-rig-demo/UE_hand_monster_icon.png",
         `
@@ -41,7 +41,7 @@ export default [
         true
       ),
     new ProjectData(
-        "project-6",
+        "project-d-2",
         "Tiled+ Rendering",
         "img/side-projects/tiled-plus/icon.png",
         `
